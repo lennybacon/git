@@ -1,0 +1,24 @@
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "msysgit"
+      VALUE "FileDescription", "Git is a fast, scalable, distributed revision control system"
+      VALUE "FileVersion", "1.7.10"
+      VALUE "InternalName", "git"
+      VALUE "LegalCopyright", "msysgit"
+      VALUE "OriginalFilename", "git.exe"
+      VALUE "ProductName", "git"
+      VALUE "ProductVersion", "1.7.10"
+    END
+  END
+
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
